@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking test.Plugins", "Networking test.Plugins.csproj", "{95A56D9F-A942-B64D-771F-0853B1BBF8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking test", "Networking test.csproj", "{0AF70659-C847-D93C-B533-4824F537D4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking test.Editor.Plugins", "Networking test.Editor.Plugins.csproj", "{FE222C43-10F4-8EE8-AD08-B33AB5F41BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking test.Editor", "Networking test.Editor.csproj", "{F0E098D4-45CB-7935-1C89-C107B8FFC774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A56D9F-A942-B64D-771F-0853B1BBF8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A56D9F-A942-B64D-771F-0853B1BBF8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A56D9F-A942-B64D-771F-0853B1BBF8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A56D9F-A942-B64D-771F-0853B1BBF8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF70659-C847-D93C-B533-4824F537D4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF70659-C847-D93C-B533-4824F537D4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF70659-C847-D93C-B533-4824F537D4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF70659-C847-D93C-B533-4824F537D4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE222C43-10F4-8EE8-AD08-B33AB5F41BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE222C43-10F4-8EE8-AD08-B33AB5F41BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE222C43-10F4-8EE8-AD08-B33AB5F41BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE222C43-10F4-8EE8-AD08-B33AB5F41BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E098D4-45CB-7935-1C89-C107B8FFC774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E098D4-45CB-7935-1C89-C107B8FFC774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E098D4-45CB-7935-1C89-C107B8FFC774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E098D4-45CB-7935-1C89-C107B8FFC774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
