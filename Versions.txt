@@ -1,2 +1,2 @@
-#VersionGetterV,0.1
-#Game1V,0.6
+#versionGetter V0.1
+#Game1 V0.6
