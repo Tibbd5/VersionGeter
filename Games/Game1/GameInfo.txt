@@ -1,4 +1,6 @@
-#Version 0.5 
+#GameName Destroyer_Of_Worlds
+
+#Version 0,5 
 
 #GameInfo
 {
