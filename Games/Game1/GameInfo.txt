@@ -1,0 +1,10 @@
+#Version 0.5
+
+#GameInfoStart
+
+This will be the game descryption
+All of these lines.
+
+
+
+#GameInfoEnd
