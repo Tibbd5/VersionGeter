@@ -1,10 +1,11 @@
 #Version 0.5
 
-#GameInfoStart#
+#GameInfo
+{
 DESTROYER OF WORLDS\
 This will be the game descryption\
 All of these lines.\
 \
 wow\
 much impress\
-#GameInfoEnd#
+}
