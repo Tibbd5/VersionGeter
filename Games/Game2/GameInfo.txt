@@ -4,10 +4,10 @@
 
 #GameInfo
 {
-DESTROYER OF WORLDS
-This will be the game descryption
-All of these lines.
-
-wow
-much impres
+This game is awsome
+Made by tibbd
+Made in unity
+made for mad cash
+dont sub to pewdiepie
+he only in it for the money
 }
