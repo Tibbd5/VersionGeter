@@ -1,6 +1,6 @@
 #Client
-URL
-URL
+
+
 #Game1
 https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game1/GameInfo.txt
 https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game1/GameFiles.zip
