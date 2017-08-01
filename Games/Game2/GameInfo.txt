@@ -1,6 +1,6 @@
-#GameName Destroyer_Of_Worlds 
+#GameName KEKERINOS 
 
-#Version 0,6 
+#Version 0,11 
 
 #GameInfo
 {
