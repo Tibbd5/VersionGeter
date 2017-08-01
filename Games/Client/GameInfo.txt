@@ -1,0 +1,10 @@
+#GameName Client
+
+#Version 0,1 
+
+#GameInfo
+{
+This is the client
+if your installed version isnt the latest,
+please update, for your own sake.
+}
