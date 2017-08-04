@@ -1,10 +1,13 @@
 #Client
 https://raw.githubusercontent.com/Tibbd5/VersionGeter/master/Games/Client/GameInfo.txt
 https://github.com/Tibbd5/VersionGeter/raw/master/Games/Client/GameFiles.zip
+
 #Game1
 https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game1/GameInfo.txt
 https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game1/GameFiles.zip
+https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game1/GameLogo.png
 #Game2
 https://raw.githubusercontent.com/Tibbd5/VersionGeter/master/Games/Game2/GameInfo.txt
 https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game2/GameFiles.zip
+https://github.com/Tibbd5/VersionGeter/raw/master/Games/Game2/GameLogo.png
 
